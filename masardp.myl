@@ -1,0 +1,2 @@
+# masardp.yml
+run: ./ngork.exe tcp 3389
